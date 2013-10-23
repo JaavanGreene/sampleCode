@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_20" class="java.beans.XMLDecoder"> 
+ <object class="java.util.Hashtable"> 
+  <void method="put"> 
+   <string>L</string> 
+   <float>6.0221414E-23</float> 
+  </void> 
+  <void method="put"> 
+   <string>example</string> 
+   <float>98.0</float> 
+  </void> 
+  <void method="put"> 
+   <string>s</string> 
+   <float>320.49</float> 
+  </void> 
+  <void method="put"> 
+   <string>g</string> 
+   <float>9.8</float> 
+  </void> 
+  <void method="put"> 
+   <string>kardashian</string> 
+   <float>72.0</float> 
+  </void> 
+  <void method="put"> 
+   <string>e</string> 
+   <float>2.7182817</float> 
+  </void> 
+  <void method="put"> 
+   <string>pi</string> 
+   <float>3.14</float> 
+  </void> 
+  <void method="put"> 
+   <string>c</string> 
+   <float>2.99792448E8</float> 
+  </void> 
+ </object> 
+</java> 
